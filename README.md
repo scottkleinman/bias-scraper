@@ -13,7 +13,7 @@ This is a quick and dirty script designed to scrape some data from `allsides.com
 
 The script is run off the command line as follows:
 
-```python
+```linux
 python bias_scraper.py --source=path_to_excel_file --output=path_to_output_csv_file
 ```
 
